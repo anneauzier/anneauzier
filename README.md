@@ -1,4 +1,4 @@
-Hello! My name is Anne Auzier, I have graduated as a Technique in Mechatronics and I have great interest in the area of technology, especially in the computer area. I am currently studying Python.I really want to gain experience in this sector and apply in the market all the knowledge I am acquiring in studies. I've programmed in JavaScript, but I try to delve deeper into these languages.
+Hello! My name is Anne Auzier, I have graduated as a Technique in Mechatronics and I have great interest in the area of technology, especially in the computer area. I am currently studying Swift.I really want to gain experience in this sector and apply in the market all the knowledge I am acquiring in studies. 
 
 <div align="center">
   <a href="https://github.com/anneauzier">
