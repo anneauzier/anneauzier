@@ -11,7 +11,6 @@ Hello! My name is Anne Auzier, I have graduated as a Technique in Mechatronics a
   <img align="center" alt="anne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="anne-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="anne-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="right" alt="anne-pic" height="150" style="border-radius:50px;"
 </div>
   
   ##
