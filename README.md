@@ -4,7 +4,7 @@ Hello, world! I'm Anne🙋🏻‍♀️,
 
 An eternal learner who loves to experiment and explore new subjects🤩.
 
-I'm currently delving into the Swift programming language in order to develop a solid set of skills!
+I'm currently delving into the Swift programming language to develop a solid set of skills!
 
 ##
 
