@@ -1,3 +1,9 @@
+
+<div align="leading">
+  <img src="https://github.com/anneauzier/anneauzier/assets/77627818/c2e2dea5-7558-472b-a8db-808e138b9ff2" width="1000px" height="20px" />
+
+</div>
+
 ## About me 👋
 
 Hello, world! I'm Anne🙋🏻‍♀️,
@@ -28,6 +34,3 @@ I'm currently delving into the Swift programming language to develop a solid set
   <a href="https://www.linkedin.com/in/anneauzier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div align="leading">
-  <img src="https://komarev.com/ghpvc/?username=anneauzier&color=2a2a2a&style=flat&label=views" />
-</div>
