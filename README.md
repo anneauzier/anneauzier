@@ -1,6 +1,6 @@
 
 <div align="leading">
-  <img src="https://github.com/anneauzier/anneauzier/assets/77627818/882c6c7a-5ddc-4b4c-93de-6eb468036a2f" width="1200px" height="325px" />
+  <img src="https://github.com/anneauzier/anneauzier/assets/77627818/882c6c7a-5ddc-4b4c-93de-6eb468036a2f" width="1200px" height="300px" />
 </div>
 
 ## About me 👋
