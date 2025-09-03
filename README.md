@@ -15,7 +15,7 @@ I'm currently delving into the Swift programming language to develop a solid set
 
 <div align="leading">  
   <a href="https://github.com/anneauzier">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anneauzier&show_icons=true&theme=dark">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anneauzier&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anneauzier">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&layout=compact&username=anneauzier">
   </a>
 </div>
@@ -25,4 +25,5 @@ I'm currently delving into the Swift programming language to develop a solid set
 <div> 
   <a href="https://www.linkedin.com/in/anneauzier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
