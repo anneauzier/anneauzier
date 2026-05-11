@@ -1,7 +1,11 @@
 
 <div align="leading">
-  <img src="https://github.com/anneauzier/anneauzier/assets/77627818/882c6c7a-5ddc-4b4c-93de-6eb468036a2f" width="1200px" height="270px" />
+  <img width="3600" height="810" alt="Group 5(1)" src="https://github.com/user-attachments/assets/c495cd05-a1ed-4690-b0cd-010b5b42dba1" />
+
+  
 </div>
+
+
 
 ## About me 👋
 
