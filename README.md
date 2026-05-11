@@ -5,11 +5,11 @@
 
 ## About me 👋
 
-Hello, world! I'm Anne🙋🏻‍♀️,
+Hello, world! I'm Anne :)
 
-An eternal learner who loves to experiment and explore new subjects🤩.
+- I’m currently working with 👉🏼 **iOS Development Mentor at Apple Developer Academy** 🍎
 
-I'm currently studying Kotlin and expanding my knowledge of the Swift programming language 💻📱.
+- I’m currently learning 👉🏼 **Kotlin, Jetpack Composer & Swift** 📱
 
 ##
 
@@ -25,5 +25,4 @@ I'm currently studying Kotlin and expanding my knowledge of the Swift programmin
 <div> 
   <a href="https://www.linkedin.com/in/anneauzier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
 
