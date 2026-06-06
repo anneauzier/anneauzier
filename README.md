@@ -13,7 +13,7 @@ Hello, world! I'm Anne :)
 
 - I’m currently working with 👉🏼 **iOS Development Mentor at Apple Developer Academy** 🍎
 
-- I’m currently learning 👉🏼 **Kotlin, Jetpack Composer & Swift** 📱
+- I’m currently learning 👉🏼 **Kotlin, Jetpack Compose & Swift** 📱
 
 ##
 
